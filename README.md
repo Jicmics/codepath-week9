@@ -17,6 +17,8 @@ None.
 <img src="map.png" width="700" height="400" />
 
 # summary of attacks
+We see below a list of all the unique simulated attacks. Some of the attacks are localized to specific cities while other attacks are only recorded from the country as a whole. Some of the attacks were repeated from the same place at different times.
+
 
 13:49:47 <dionaea.connections> New attack from New York, USA (40.83, -73.95)
 13:50:46 <dionaea.connections> New attack from Stoney Creek, Canada (43.22, -79.70)
