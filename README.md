@@ -14,7 +14,7 @@ None.
 
 # map of attacks
 
-<img src="map.png" width="400" height="400" />
+<img src="map.png" width="700" height="400" />
 
 # summary of attacks
 
